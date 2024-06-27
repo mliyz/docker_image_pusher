@@ -2,7 +2,7 @@ nginx:latest
 mysql
 minio/minio
 postgres
-portainer/protainer-ce
+portainer/portainer-ce:2.20.3-alpine
 jenkins/jenkins
 amazoncorretto
 apache/rocketmq:5.2.0

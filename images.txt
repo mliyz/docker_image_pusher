@@ -1,9 +1,9 @@
 nginx:latest
-mysql:8.2.0
+mysql
 minio/minio
-postgres:8.8
+postgres
 portainer/portainer-ce:2.20.3-alpine
-jenkins/jenkins:2.452.2-lts
+jenkins/jenkins
 amazoncorretto:21
 apache/rocketmq:5.2.0
 apacherocketmq/rocketmq-dashboard:latest

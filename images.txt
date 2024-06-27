@@ -7,3 +7,7 @@ jenkins/jenkins:2.452.2-lts
 amazoncorretto:21
 apache/rocketmq:5.2.0
 apacherocketmq/rocketmq-dashboard:latest
+redis:7.2.5
+elasticsearch:8.14.1
+sonatype/nexus3:3.69.0
+dpage/pgadmin4:8.8

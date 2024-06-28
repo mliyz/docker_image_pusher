@@ -11,3 +11,4 @@ redis:7.2.5
 elasticsearch:8.14.1
 sonatype/nexus3:3.69.0
 dpage/pgadmin4:8.8
+antonyleons/ward:latest

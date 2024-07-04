@@ -1,14 +1,1 @@
-nginx:latest
-mysql:8.2.0
-minio/minio:RELEASE.2024-06-11T03-13-30Z
-postgres:16.3-alpine
-portainer/portainer-ce:2.20.3-alpine
-jenkins/jenkins:2.452.2-lts
-amazoncorretto:21
-apache/rocketmq:5.2.0
-apacherocketmq/rocketmq-dashboard:latest
-redis:7.2.5
-elasticsearch:8.14.1
-sonatype/nexus3:3.69.0
-dpage/pgadmin4:8.8
-antonyleons/ward:latest
+sonarqube:10.5.1-community

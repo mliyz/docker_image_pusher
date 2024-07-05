@@ -1,3 +1,1 @@
-sonarqube:10.6.0-community
-minio/minio:RELEASE.2024-06-11T03-13-30Z
-jenkins/jenkins:2.452.2-lts
+phpmyadmin:5.2.1

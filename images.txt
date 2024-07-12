@@ -1,1 +1,1 @@
-python:3.10.14-bookworm
+syq163/emoti-voice:latest

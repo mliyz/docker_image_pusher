@@ -1,1 +1,3 @@
-syq163/emoti-voice:latest
+sqlchat/sqlchat:latest
+eosphorosai/dbgpt:latest
+mysql/mysql-server

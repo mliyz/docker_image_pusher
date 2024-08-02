@@ -1,1 +1,1 @@
-netdata/netdata:latest
+redis:7.4.0
